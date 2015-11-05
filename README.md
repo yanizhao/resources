@@ -54,6 +54,11 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 - [animate.css](https://daneden.github.io/animate.css/)
 - [normalize.css](https://necolas.github.io/normalize.css/)
 
+### Design
+
+- [Code School: Fundamentals of Design](http://courseware.codeschool.com/FoD_optimized.pdf)
+- [Viking Code School: Principles of Visual Design](Viking Code School: Principles of Visual Design (12-20))
+
 ### Domain Names & Services
 
 - [Namecheap](http://nc.me) - free .me for students
@@ -74,7 +79,6 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 
 - [Unheap](http://www.unheap.com/)
 
-
 ### Responsive Design
 
 - [Responsive Design Cheat Sheet](http://blog.uxpin.com/4596/responsive-web-design-cheat-sheet/)
@@ -85,12 +89,12 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 - [w3c HTML validator](http://validator.w3.org/)
 - [w3c CSS validator](https://jigsaw.w3.org/css-validator/)
 
-## Wireframes
+### Wireframes
 
 - [960 grid system: sketch sheets](https://github.com/nathansmith/960-Grid-System/tree/master/sketch_sheets)
 
 
-## JavaScript & jQuery resources
+## JavaScript & jQuery
 
 ### Reference
 
