@@ -19,6 +19,7 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 
 - [Codrops](http://tympanus.net/codrops/)
 - [Codyhouse](http://codyhouse.co/library/)
+- [CSS Tricks](http://css-tricks.com/)
 - [Sidebar](http://sidebar.io/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Team Treehouse](http://blog.teamtreehouse.com/)
