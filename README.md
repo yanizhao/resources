@@ -78,6 +78,7 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 
 ### jQuery Plugins
 
+- [LightBox](http://lokeshdhakar.com/projects/lightbox2/)
 - [Unheap](http://www.unheap.com/)
 
 ### Responsive Design
